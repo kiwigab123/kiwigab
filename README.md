@@ -4,7 +4,7 @@
 I like programming that's all.. I can't think of a better description..
 
 <h2>📑 Where to find me</h2>
-<p align="left">
+<p align="left" style="display: block;">
   <a href="https://www.youtube.com/channel/UC68gimgpWeAz3Z-cpRtnwAg">YouTube</a>
   <a href="https://discord.gg/kXvKyVAAb5">Discord</a>
   <a href="https://twitter.com/kiwigab_">Twitter</a>
