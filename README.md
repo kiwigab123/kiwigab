@@ -10,6 +10,4 @@ I like programming that's all.. I can't think of a better description..
 [Steam](https://steamcommunity.com/id/kiwigab/)
 
 <h2>🤖 Tools</h2>
-<img width="16" style="display: inline-block;" alt="python" src="https://user-images.githubusercontent.com/77127009/184541284-8454d76b-4dd3-4820-870c-e6f535b7dc74.png">
-<img width="16" alt="javascript" src="https://user-images.githubusercontent.com/77127009/184541306-532959a6-f2d1-4fa7-bea2-305c2564da48.png"><img width="16" alt="c++" src="https://user-images.githubusercontent.com/77127009/184541291-ca82beca-9ce9-4cf7-803a-e8387c5da8d8.png">
-
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
