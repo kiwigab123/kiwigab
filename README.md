@@ -4,10 +4,12 @@
 I like programming that's all.. I can't think of a better description..
 
 <h2>📑 Where to find me</h2>
-<a align="left" href="https://www.youtube.com/channel/UC68gimgpWeAz3Z-cpRtnwAg">YouTube</a>
-<a align="left" href="https://discord.gg/kXvKyVAAb5">Discord</a>
-<a align="left" href="https://twitter.com/kiwigab_">Twitter</a>
-<a href="https://steamcommunity.com/id/kiwigab/">Steam</a>
+<p align="left">
+  <a href="https://www.youtube.com/channel/UC68gimgpWeAz3Z-cpRtnwAg">YouTube</a>
+  <a href="https://discord.gg/kXvKyVAAb5">Discord</a>
+  <a href="https://twitter.com/kiwigab_">Twitter</a>
+  <a href="https://steamcommunity.com/id/kiwigab/">Steam</a>
+</p>
 
 <h2>🤖 Tools</h2>
 <p align="left">
