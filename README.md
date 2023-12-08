@@ -4,7 +4,7 @@ I like programming that's all.. I can't think of a better description..
 
 <h2>📑 Where to find me</h2>
 <p>
-  <a href="https://www.youtube.com/channel/@kiwigab_">YouTube</a><br />
+  <a href="https://www.youtube.com/@kiwigab_">YouTube</a><br />
   <a href="https://twitter.com/kiwigab_">Twitter</a><br />
   <a href="https://steamcommunity.com/id/kiwigab/">Steam</a><br />
 </p>
